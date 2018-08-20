@@ -45,11 +45,11 @@
 <script>
 import { mapGetters } from 'vuex'
 import type from '@/store/types'
-import AppVisual from '@/partials/app-visual'
-import AppNav from '@/partials/app-nav'
+import AppVisual from '@/partials/AppVisual'
+import AppNav from '@/partials/AppNav'
 
-import AppError from '@/partials/app-error'
-import AppModal from '@/partials/app-modal'
+import AppError from '@/partials/AppError'
+import AppModal from '@/partials/AppModal'
 import logger from '../app/logger'
 import { getVersionLabel } from '../libraries/version'
 

@@ -10,8 +10,6 @@
     "__static": true
   },
   "rules": {
-    "no-unused-expressions": 0,
-    // overwrite file naming rules to support 2 dots simbols in file name (ex:  file-name.spec.js)
-    "filenames/match-regex": [2, "^[a-z-]+.+$", true]
+    "no-unused-expressions": 0
   }
 }

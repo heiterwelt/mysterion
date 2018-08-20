@@ -17,7 +17,7 @@
  */
 
 import lolex from 'lolex'
-import { FunctionLooper, ThresholdExecutor } from '@/../libraries/function-looper'
+import { FunctionLooper, ThresholdExecutor } from '@/../libraries/functionLooper'
 import sleep from '@/../libraries/sleep'
 import { nextTick } from '../../helpers/utils'
 

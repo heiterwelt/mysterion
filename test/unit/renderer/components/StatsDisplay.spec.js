@@ -16,7 +16,7 @@
  */
 
 import Vue from 'vue'
-import StatsDisplay from '../../../../src/renderer/components/stats-display'
+import StatsDisplay from '../../../../src/renderer/components/StatsDisplay'
 
 const mount = function (connection) {
   // TODO Migrate to createLocalVue() from package '@vue/test-utils'
